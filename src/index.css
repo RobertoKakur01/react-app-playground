@@ -1,0 +1,43 @@
+
+ a {
+   text-decoration: none;
+   color: inherit;
+ }
+ 
+ .navbar ul {
+   width: auto;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   padding: 15px 8%;
+ }
+
+ .navbar ul li {
+   display: inline-block;
+   margin: 10;
+   padding: auto;
+ }
+ 
+.navbar{
+  display:block;
+  margin-left: 10;
+  margin-right: 10;
+  width: 100px;
+  
+}
+ul{
+  text-align:justify;
+ align-items:flex-start;
+}
+.horizontal-navbar ul {
+  margin: auto;
+  padding: auto;
+  display:flex ;
+background-color: yellow;
+}
+a{
+  margin:10px;
+}
+.cat{
+  width:200px;
+}
