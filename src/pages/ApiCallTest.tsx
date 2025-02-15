@@ -1,7 +1,7 @@
 import { useState } from "react";
-import React from 'react';
 export function ApiCallTest() {
     const [movies, setMovies] = useState([]);
+
 
     const makeAPICall = async () => {
         const url = 'https://api.npoint.io/6a05464df2e972fdbf16';
